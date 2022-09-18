@@ -1,0 +1,24 @@
+body{
+
+}
+
+.editor{
+    display:flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: orange;
+}
+
+.toolbar{
+    width: 250px;
+    background-color: white;
+
+}
+
+.toolbar-item{
+    padding: 15px;
+}
+
+.toolbar-label{
+    display: block;
+}
